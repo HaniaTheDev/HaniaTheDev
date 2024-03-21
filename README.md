@@ -19,7 +19,7 @@ I'm a developer passionate about building intuitive and impactful applications. 
 
 Here are a few projects I'm working on:
 
-- **Project Name**: A GPT-powered App that lets users create stories with unlimited possibilities. COMING SOON!
+- **PlotAlign**: A GPT-powered App that lets users create stories with unlimited possibilities. COMING SOON!
 - **PhysiPedia**: A flashcard-style collection of all inventions that developed human understanding of physics (from the kaliper to the quantum computer). COMING SOON!
 - **BasiArt**: An AI art gallery made with Stability AI and Midjourney [https://www.basiart.com]
 
